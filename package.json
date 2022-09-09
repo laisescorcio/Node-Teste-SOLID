@@ -1,0 +1,25 @@
+{
+  "name": "node-teste-solid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laisescorcio/Node-Teste-SOLID.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laisescorcio/Node-Teste-SOLID/issues"
+  },
+  "homepage": "https://github.com/laisescorcio/Node-Teste-SOLID#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.36.2",
+    "@typescript-eslint/parser": "^5.36.2",
+    "eslint": "^8.23.0"
+  }
+}
